@@ -1,6 +1,5 @@
 # N
-<h2 align="left"> Hi there! It's N width="50"></h2>
-
+<h2 align="left"> <span style="color:MediumSlateBlue; Hi there! It's N </span></h2>
 
 
 <h3 align="center">Red Teamer/Pentester.</h3>
