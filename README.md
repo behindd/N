@@ -21,8 +21,6 @@
 
 <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
 </br>
-
-<h3 align="left"> Reach out To me:</h3>
-
-<a href="https://twitter.com/justt_N">
+</a>
+href="https://twitter.com/justt_N" target="_blank" rel="noopener noreferrer"><span class="fab fa-twitter" style="font-size:20.0pt"></span>
 </a>
