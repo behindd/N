@@ -21,6 +21,8 @@
 
 <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
 </br>
+<a href="https://twitter.com/justt_N" target="_blank" rel="noopener noreferrer"><span class="fab fa-twitter" style="font-size:20.0pt"></span>
 </a>
-href="https://twitter.com/justt_N" target="_blank" rel="noopener noreferrer"><span class="fab fa-twitter" style="font-size:20.0pt"></span>
+
+<a href="https://www.youtube.com/@Cyber0xC" target="_blank" rel="noopener noreferrer"><span class="fab fa-youtube" style="font-size:20.0pt"></span>
 </a>
