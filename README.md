@@ -1,4 +1,3 @@
-# N
 ## Hi there! It's N <span style="color:MediumSlateBlue;">👋</span>
 
 -  Red Teamer/Pentester
